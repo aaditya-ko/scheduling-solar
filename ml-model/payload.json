@@ -1,0 +1,13 @@
+{
+  "roofPitch": 23,
+  "numSolarPanels": 26,
+  "panelHeight": 71.7,
+  "panelWidth": 40,
+  "panelWeight": 45,
+  "powerRating": 10.53,
+  "isSquirrelScreen": 1,
+  "numStories": 1,
+  "season": "Summer",
+  "numEmployees": 4,
+  "driveTime": 14
+}
